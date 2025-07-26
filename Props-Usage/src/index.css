@@ -1,0 +1,11 @@
+.stu{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.stu p{
+    margin: 0;
+}
